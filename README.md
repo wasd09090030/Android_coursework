@@ -1,1 +1,1 @@
-# Android_coursework
+初学者使用安卓开发的一个提醒软件。
