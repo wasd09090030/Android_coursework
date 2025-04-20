@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">课程提醒系统</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="upload_schedule">上传课表</string>
+    <string name="add_course">添加课程</string>
+    <string name="settings">设置</string>
+    <string name="save">保存设置</string>
+</resources>
